@@ -1,0 +1,2 @@
+address,category,claimed_status,health_rating,info,latitude,longitude,name,neighborhood,permanently_closed,phone,price_range,ratings,ratings_histogram,reviews,website,working_hours
+"2642 N Lincoln Ave Chicago, IL 60614 b/t Kenmore Ave & Sheffield Ave DePaul, Lincoln Park",Restaurants,,,[{'Outdoor Seating': 'No'}],41.929844,-87.655359,Lindo Mexico Restauant,"DePaul, Lincoln Park",1,(773) 871-4832,,3.0,"[{5: 0}, {4: 0}, {3: 1}, {2: 0}, {1: 0}]",1,,[]

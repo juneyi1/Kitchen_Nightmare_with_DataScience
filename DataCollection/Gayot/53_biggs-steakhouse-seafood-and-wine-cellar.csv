@@ -1,0 +1,2 @@
+address,category,claimed_status,health_rating,info,latitude,longitude,name,neighborhood,permanently_closed,phone,price_range,ratings,ratings_histogram,reviews,website,working_hours
+"1150 N Dearborn St Chicago, IL 60610 b/t Division St & Elm St Near North Side","Seafood,Steakhouses",,,"[{'Noise Level': 'Very Loud'}, {'Outdoor Seating': 'Yes'}]",41.903326,-87.630331,Biggs Steakhouse Seafood & Wine Cellar,Near North Side,1,(312) 787-0900,Under $10,0,"[{5: 0}, {4: 0}, {3: 0}, {2: 0}, {1: 0}]",,,[]

@@ -1,0 +1,2 @@
+address,category,claimed_status,health_rating,info,latitude,longitude,name,neighborhood,permanently_closed,phone,price_range,ratings,ratings_histogram,reviews,website,working_hours,url
+"4801 N Broadway St Chicago, IL 60640 b/t Lawrence Ave & Racine Ave Uptown",Chinese,,,[{'Delivery': 'Yes'}],41.969043,-87.659665,Charming Wok,Uptown,0,(773) 989-8768,$11-30,1.5,"[{5: 0}, {4: 0}, {3: 1}, {2: 0}, {1: 2}]",3,,[],https://www.yelp.com/biz/charming-wok-chicago?sort_by=date_asc&start=0

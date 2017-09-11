@@ -1,0 +1,2 @@
+address,category,claimed_status,health_rating,info,latitude,longitude,name,neighborhood,permanently_closed,phone,price_range,ratings,ratings_histogram,reviews,website,working_hours,url
+"4808 N Milwaukee Ave Chicago, IL 60630 b/t Ainslie St & Lawrence Ave",Mexican,,,"[{'Attire': 'Casual'}, {'Outdoor Seating': 'No'}]",41.968018,-87.761231,Taqueria El Gallo,,0,(773) 427-1240,,4.0,"[{5: 0}, {4: 1}, {3: 0}, {2: 0}, {1: 0}]",1,,[],https://www.yelp.com/biz/taqueria-el-gallo-chicago-3?sort_by=date_asc&start=0

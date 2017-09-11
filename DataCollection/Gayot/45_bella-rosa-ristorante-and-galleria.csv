@@ -1,0 +1,2 @@
+address,category,claimed_status,health_rating,info,latitude,longitude,name,neighborhood,permanently_closed,phone,price_range,ratings,ratings_histogram,reviews,website,working_hours,url
+"23 W Hubbard St Chicago, IL 60686 Near North Side",Italian,,,"[{'Accepts Credit Cards': 'Yes'}, {'Attire': 'Casual'}, {'Alcohol': 'Full Bar'}, {'Outdoor Seating': 'Yes'}]",41.889962,-87.628986,Bella Rosa Ristorante & Galleria,Near North Side,1,(312) 527-2100,,4.5,"[{5: 1}, {4: 3}, {3: 0}, {2: 0}, {1: 0}]",4,,[],https://www.yelp.com/biz/bella-rosa-ristorante-and-galleria-chicago

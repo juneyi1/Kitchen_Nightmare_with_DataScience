@@ -1,0 +1,2 @@
+address,category,claimed_status,health_rating,info,latitude,longitude,name,neighborhood,permanently_closed,phone,price_range,ratings,ratings_histogram,reviews,website,working_hours
+"1640 E 79th St Chicago, IL 60649 b/t Cornell Ave & East End Ave South Chicago",Barbeque,,,[{'Outdoor Seating': 'No'}],41.751514,-87.583859,Leon’s Bar-B-Q,South Chicago,1,(773) 731-1454,,2.0,"[{5: 0}, {4: 0}, {3: 0}, {2: 1}, {1: 0}]",1,,[]

@@ -1,0 +1,2 @@
+address,category,claimed_status,health_rating,info,latitude,longitude,name,neighborhood,permanently_closed,phone,price_range,ratings,ratings_histogram,reviews,website,working_hours
+"3441 N Halsted St Chicago, IL 60613 Lakeview",Restaurants,,,[{'Attire': 'Casual'}],41.944871,-87.649173,X/O Chicago,Lakeview,1,(773) 348-9696,$31-60,4.0,"[{5: 5}, {4: 3}, {3: 4}, {2: 0}, {1: 0}]",12,http://www.xochicago.com,[]

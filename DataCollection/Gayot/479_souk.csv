@@ -1,0 +1,2 @@
+address,category,claimed_status,health_rating,info,latitude,longitude,name,neighborhood,permanently_closed,phone,price_range,ratings,ratings_histogram,reviews,website,working_hours,url
+"1552 N Milwaukee Ave Chicago, IL 60686 Wicker Park, West Town","Middle Eastern,Greek,Mediterranean",,,"[{'Takes Reservations': 'Yes'}, {'Accepts Credit Cards': 'Yes'}, {'Good for Groups': 'Yes'}]",41.909543,-87.676686,Souk,"Wicker Park, West Town",1,(773) 227-1818,$11-30,4.0,"[{5: 2}, {4: 4}, {3: 2}, {2: 0}, {1: 0}]",8,,[],https://www.yelp.com/biz/souk-chicago

@@ -1,0 +1,2 @@
+address,category,claimed_status,health_rating,info,latitude,longitude,name,neighborhood,permanently_closed,phone,price_range,ratings,ratings_histogram,reviews,website,working_hours
+"1950 W N Ave Chicago, IL 60610 Lincoln Park, DePaul",Bars,,,"[{'Accepts Credit Cards': 'Yes'}, {'Good for Groups': 'Yes'}, {'Has TV': 'Yes'}]",41.925592,-87.65812,D’Vine Restaurant,"Lincoln Park, DePaul",1,(773) 235-5700,Moderate,2.5,"[{5: 0}, {4: 2}, {3: 2}, {2: 0}, {1: 2}]",6,,[]

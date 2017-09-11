@@ -1,0 +1,2 @@
+address,category,claimed_status,health_rating,info,latitude,longitude,name,neighborhood,permanently_closed,phone,price_range,ratings,ratings_histogram,reviews,website,working_hours
+"221 W Cermak Road Chicago, IL 60616 Chinatown",Restaurants,,,[{'Attire': 'Casual'}],41.852671,-87.632882,Hong Min Restaurant,Chinatown,1,(312) 842-5026,,5.0,"[{5: 3}, {4: 0}, {3: 0}, {2: 0}, {1: 0}]",3,,[]

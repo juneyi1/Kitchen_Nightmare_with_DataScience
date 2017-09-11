@@ -1,0 +1,2 @@
+address,category,claimed_status,health_rating,info,latitude,longitude,name,neighborhood,permanently_closed,phone,price_range,ratings,ratings_histogram,reviews,website,working_hours,url
+"3343 N Clark St Chicago, IL 60657 at Buckingham Pl Lakeview","Lounges,Restaurants",,,"[{'Good for Groups': 'Yes'}, {'Alcohol': 'Full Bar'}, {'Outdoor Seating': 'No'}]",41.942893,-87.65287,Spot 6,Lakeview,0,(773) 388-0185,$11-30,2.5,"[{5: 1}, {4: 2}, {3: 2}, {2: 3}, {1: 2}]",10,,[],https://www.yelp.com/biz/spot-6-chicago-2?sort_by=date_asc&start=0

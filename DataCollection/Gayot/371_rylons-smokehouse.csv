@@ -1,0 +1,2 @@
+address,category,claimed_status,health_rating,info,latitude,longitude,name,neighborhood,permanently_closed,phone,price_range,ratings,ratings_histogram,reviews,website,working_hours
+"67 E Cermak Rd Chicago, IL 60616 b/t Federal St & Michigan Ave Near Southside",Smokehouse,Claimed,,"[{'Take-out': 'No'}, {'Accepts Credit Cards': 'No'}, {'Parking': 'Street'}, {'Bike Parking': 'No'}, {'Caters': 'No'}]",41.852637,-87.624399,Rylon’s Smokehouse,Near Southside,1,(312) 794-5901,Moderate,3.0,"[{5: 10}, {4: 12}, {3: 10}, {2: 9}, {1: 18}]",59,http://www.RylonsSmokehouse.com,[]
