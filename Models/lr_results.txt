@@ -1,0 +1,54 @@
+./train_df_block13_open26.csv	./test_df_block13_open26.csv
+score: 0.8125
+best parameters:
+{'alpha': 0.019306977288832496, 'l1_ratio': 0.1, 'loss': 'log', 'penalty': 'l1'}
+coefficients:
+AvgLast_subjectivity: 15.496406057998739, Last_star_coef: 1.9112015153138255, Last_subjectivity_coef: 2052.536981224883, Last_subjectivity_intrcpt: 24.706190369601284, avg_reviews: 75.55451921352933, Brazilian: 1.2748927499160014, American (New): 3.7637823118122373, Italian: 1.1879187697061286, Filipino: 1.6493521469011583, Korean: 1.179647052507446, Sports Bars: 1.3877392018829422, Gastropubs: 1.8136833596771906, Middle Eastern: 1.8388033927752252, Bucktown: 1.0357212508469442, Lakeview: 3.176776619245268, Wicker Park: 1.0573427032510865, Forest Glen: 7.921504342103617, $31-60: 1.279255748938973, 
+./train_df_block13_open52.csv	./test_df_block13_open52.csv
+score: 0.791666666667
+best parameters:
+{'alpha': 0.013894954943731374, 'l1_ratio': 0.5, 'loss': 'log', 'penalty': 'l1'}
+coefficients:
+Claimed?: 3.0192153159278186, Last_compound_intrcpt: 1.4554215321081672, Last_star_coef: 9.438207289391771, Last_subjectivity_intrcpt: 5.140064857966289, avg_reviews: 4.763647077350788, Brazilian: 27353848.28476275, Tex-Mex: 1.602112746413187, American (New): 20.684998324765367, Smokehouse: 76.88271762909434, Italian: 1.8925210121494387, Sushi Bars: 1.0190366822075188, Japanese: 1.494659545755098, Asian Fusion: 1.7774892886308922, Filipino: 1.6406123434220348, Hot Dogs: 1.9875286066300046, Latin American: 2.485125109330738, Venues & Event Spaces: 1.4599986012170878, Gastropubs: 2.2528151691783096, Fast Food: 1.1649661700184986, Music Venues: 1.6017244341026133, Adult Entertainment: 163.34426203008132, Dive Bars: 2922881111.1938186, Food Trucks: 1.0877677955886438, Live/Raw Food: 112.55357789965275, Falafel: 1.9416372017975223, Noble Square: 1.0553053898257816, Near North Side: 1.1400675971251835, Bucktown: 2.705083307417919, Andersonville: 1.025922660752965, Lakeview: 1.2033378530011563, River North: 1.340020037195856, Wicker Park: 3.6161694112772365, River East: 1.040822924712146, Forest Glen: 1.9686926281116972, Fulton Market: 76.04391517256781, Moderate: 4.21215787702855, $31-60: 1.9860223107179888, Good for Groups: 1.5070877623494217, Take-out: 2.2365906258067487, Delivery: 3.530021975049245, 
+./train_df_block13_open78.csv	./test_df_block13_open78.csv
+score: 0.826388888889
+best parameters:
+{'alpha': 0.019306977288832496, 'l1_ratio': 0.3, 'loss': 'log', 'penalty': 'l1'}
+coefficients:
+Claimed?: 1.3255005973445229, avg_reviews: 7.0964355554035965, American (New): 2.0201821434993237, Smokehouse: 2.0301835888958295, Italian: 1.0989092978753126, Japanese: 1.0873019902217693, Asian Fusion: 1.2318608302634064, Latin American: 1.1755893491963958, Gastropubs: 1.255755758100217, Middle Eastern: 1.0346559537293418, Dive Bars: 1.4786566424124106, Falafel: 575444.2115604337, River North: 1.151757257083528, Wicker Park: 1.0528185487382535, Accepts Credit Cards: 6.934239369340411, Takes Reservations: 1.0983193893475343, 
+./train_df_block26_open26.csv	./test_df_block26_open26.csv
+score: 0.815972222222
+best parameters:
+{'alpha': 0.019306977288832496, 'l1_ratio': 0.9, 'loss': 'log', 'penalty': 'elasticnet'}
+coefficients:
+AvgLast_subjectivity: 1.4011796560380354, Last_compound_intrcpt: 1.2447208685491615, avg_reviews: 3.991596854627726, American (New): 1.3242288558378612, Hot Dogs: 1.0543180656771087, Gastropubs: 1.140832982258697, Adult Entertainment: 1.0391260347024327, Dive Bars: 1.093760463641774, Basque: 3.680634310547019, Falafel: 1.3530445286553352, Bucktown: 1.0337147948009917, River North: 1.1889068164172572, Wicker Park: 1.0762242159713662, Forest Glen: 1.292684794155373, $31-60: 1.0174059715031878, Accepts Credit Cards: 1.0798086240222207, 
+./train_df_block26_open52.csv	./test_df_block26_open52.csv
+score: 0.833333333333
+best parameters:
+{'alpha': 0.019306977288832496, 'l1_ratio': 0.1, 'loss': 'log', 'penalty': 'l1'}
+coefficients:
+Last_subjectivity_intrcpt: 1.3618356675791776, avg_reviews: 10.019845857607576, Brazilian: 4.328792465497193, American (New): 1.358995680309361, Italian: 1.1854837093856756, Filipino: 8604678.116867132, Ice Cream & Frozen Yogurt: 2419.69793107746, Polish: 167.6897515500316, Gastropubs: 1.1353075334548208, Dive Bars: 1.0936992138052728, Food Trucks: 1033802.1542704686, Live/Raw Food: 1.162933514348635, Pop-up Shops: 1.1600864903030488, Falafel: 1.233863901536598, Bucktown: 1.0608545202746205, Takes Reservations: 1.332673340347662, 
+./train_df_block26_open78.csv	./test_df_block26_open78.csv
+score: 0.784722222222
+best parameters:
+{'alpha': 0.019306977288832496, 'l1_ratio': 0.0, 'loss': 'log', 'penalty': 'l1'}
+coefficients:
+Last_compound_intrcpt: 2.432919484119558, avg_reviews: 4.231712865948828, American (New): 2.2308551861598485, Asian Fusion: 1.3157730439057753, Middle Eastern: 1.882766429463342, Adult Entertainment: 1.8360378178503376, Dive Bars: 1.3231918642975733, Live/Raw Food: 1.5829239909890918, Falafel: 4.095014530056747, Bucktown: 1.30396718770657, Wicker Park: 1.3577777545483418, Forest Glen: 2.684680072713197, Takes Reservations: 2.5955221265201227, Attire_Dressy: 1.3205731575160362, Parking_Street: 1.5850629506368623, 
+./train_df_block52_open26.csv	./test_df_block52_open26.csv
+score: 0.78125
+best parameters:
+{'alpha': 0.0071968567300115137, 'l1_ratio': 0.9, 'loss': 'log', 'penalty': 'elasticnet'}
+coefficients:
+Claimed?: 4.5210677621280375, AvgLast_subjectivity: 5.811324339398088, Last_subjectivity_intrcpt: 6.493964798407069, avg_reviews: 3.8375910985294066, Brazilian: 27.239874530275298, Tex-Mex: 1.6489925730738577, American (New): 55.195431617096204, Italian: 3.5264348861746506, Diners: 3.2523305207970883, Asian Fusion: 6.770012183339176, German: 1.715094528243991, Cocktail Bars: 1.552581771593083, Hot Dogs: 17.701447307264495, Bakeries: 1.5698174264383957, Korean: 5.016276683372563, Latin American: 5.355528496073325, French: 1.8574430748419004, Ice Cream & Frozen Yogurt: 3.0801679035855143, Venues & Event Spaces: 1.2723136953321068, Comfort Food: 3.1946780884435038, Gastropubs: 307.26503918771186, Irish: 4.874054408853299, Middle Eastern: 1.371394397085702, Turkish: 2.0087385861956886, Barbeque: 5.663762679671956, Chicken Shop: 87.64565050541665, Adult Entertainment: 2.6313854615975765, Dive Bars: 16.228555178845696, Food Trucks: 91.80565495531768, Live/Raw Food: 792.7428869669644, Basque: 1.185504548412821, Falafel: 1932653.4603599035, Bubble Tea: 28.958800182167536, Noble Square: 3.075414847125872, West Town: 1.045072503665095, Lincoln Park: 3.1152533157852482, Irving Park: 1.2011202097723912, Bucktown: 5.477687761801098, Avondale: 2.3508330637234884, Lakeview: 10.259351689870636, River North: 3.109309390415046, Wicker Park: 46.014202728606435, River East: 1.2481397236034673, North Center: 1.0422829494066481, Forest Glen: 8.283338580932552, Wrigleyville: 1.6366635221662007, Fulton Market: 1.4938267215560987, $11-30: 7.870077190430771, Moderate: 4.84847597457371, $31-60: 11.557983053979155, Takes Reservations: 21.719124599307456, Delivery: 8.216120259406324, Attire_Dressy: 1.248711638880653, Parking_Valet: 13.651873145775165, Parking_Street: 1.1797312671375177, 
+./train_df_block52_open52.csv	./test_df_block52_open52.csv
+score: 0.798611111111
+best parameters:
+{'alpha': 0.019306977288832496, 'l1_ratio': 0.7, 'loss': 'log', 'penalty': 'elasticnet'}
+coefficients:
+AvgLast_compound: 1.085571511354831, AvgLast_subjectivity: 1.1676814037022634, Last_compound_intrcpt: 1.116602859814589, Brazilian: 1.3354766338968769, American (New): 1.814602013393878, Italian: 1.1042782094645793, Japanese: 1.091270467205986, Asian Fusion: 1.1885998692160904, Hot Dogs: 1.4896304355884413, Korean: 1.0698660314093489, Latin American: 1.132752458637096, Gastropubs: 1.2309075491561425, Irish: 1.0229884839390213, Donuts: 1.1728739427232295, Music Venues: 1.0704255518454981, Adult Entertainment: 1.394352425758359, Dive Bars: 1.2054469140055661, Live/Raw Food: 1.2430884543955794, Falafel: 1.4349425288805475, Bubble Tea: 7.274070849009693, Lakeview: 1.0252729838133074, River North: 1.4394745588312252, Forest Glen: 1.1953922016930516, Fulton Market: 1.0503345137511244, Accepts Credit Cards: 1.3503916058520615, Takes Reservations: 1.4472559935376963, Parking_Street: 1.1491501587166322, 
+./train_df_block52_open78.csv	./test_df_block52_open78.csv
+score: 0.819444444444
+best parameters:
+{'alpha': 0.019306977288832496, 'l1_ratio': 0.6, 'loss': 'log', 'penalty': 'elasticnet'}
+coefficients:
+Claimed?: 1.376969388079933, Last_compound_intrcpt: 1.6852370550619538, avg_reviews: 2.8387415255884885, Brazilian: 1.1045238731689726, American (New): 1.8187200189317645, Italian: 1.2398614481655226, Japanese: 1.0646347637236446, Asian Fusion: 1.276116204885114, Filipino: 1.0873765796050747, Hot Dogs: 1.361000495799282, Sports Bars: 1.005116040207656, Gastropubs: 1.1974574374635745, Fast Food: 1.1126413622438323, Belgian: 1.0082492664373899, Adult Entertainment: 1.423372600061599, Dive Bars: 1.3627720506166872, Live/Raw Food: 1.2017313207056626, Falafel: 5.888020261828343, Bucktown: 1.1914013255415399, River North: 1.4133775444869192, Wicker Park: 1.371043774266804, Forest Glen: 2.3477296902410894, Wrigleyville: 1.1807038096621238, $11-30: 1.0364467715107297, Accepts Credit Cards: 1.5311762732595195, Takes Reservations: 1.369501706307116, Delivery: 1.1624542766568102, 
